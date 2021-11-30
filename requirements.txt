@@ -1,0 +1,10 @@
+nltk==3.6.5
+numpy==1.19.5
+zipp==3.6.0
+statsmodels==0.12.2
+tqdm==4.62.3
+nltk==3.6.5
+datetime
+regex==2021.10.8
+pystan==2.19.1.1
+prophet==1.0.1

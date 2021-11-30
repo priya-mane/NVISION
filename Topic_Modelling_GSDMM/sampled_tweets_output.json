@@ -1,0 +1,596 @@
+{
+    "2021-09-28": {
+        "clusters": [
+            {
+                "milley": 121,
+                "trump": 119,
+                "officer": 108,
+                "hard": 102,
+                "afghanistan": 99,
+                "chief": 99,
+                "marine": 96,
+                "military": 91,
+                "msnbc": 90,
+                "leader": 90
+            },
+            {
+                "news": 316,
+                "twitter": 256,
+                "million": 143,
+                "link": 127,
+                "updatesclick": 124,
+                "locationless": 124,
+                "retweetscommunity": 124,
+                "accused": 113,
+                "hereall": 107,
+                "man": 104
+            },
+            {
+                "channel": 881,
+                "msnbc": 348,
+                "dont": 336,
+                "nbc": 328,
+                "drop": 305,
+                "pay": 299,
+                "bravo": 292,
+                "usa": 291,
+                "golf": 289,
+                "favorite": 287
+            },
+            {
+                "biden": 337,
+                "afghanistan": 306,
+                "troop": 288,
+                "milley": 280,
+                "trump": 260,
+                "stay": 234,
+                "ruling": 232,
+                "recommended": 227,
+                "border": 217,
+                "president": 186
+            },
+            {
+                "biden": 466,
+                "trump": 365,
+                "dont": 249,
+                "people": 229,
+                "amp": 196,
+                "year": 191,
+                "republican": 188,
+                "country": 164,
+                "president": 155,
+                "administration": 155
+            }
+        ],
+        "docs per topic": "[1286 1310 1111 1394 4076]",
+        "most imp clusters (by #docs)": "[4 3 1 0 2]"
+    },
+    "2021-09-29": {
+        "clusters": [
+            {
+                "food": 839,
+                "amp": 831,
+                "people": 687,
+                "border": 614,
+                "child": 550,
+                "mayorkas": 492,
+                "tragic": 445,
+                "admits": 425,
+                "delta": 424,
+                "surprised": 422
+            },
+            {
+                "news": 1155,
+                "hundred": 946,
+                "twitter": 843,
+                "taliban": 587,
+                "covid": 538,
+                "state": 503,
+                "sen": 497,
+                "prison": 455,
+                "fox": 428,
+                "link": 405
+            },
+            {
+                "people": 1379,
+                "biden": 1293,
+                "trump": 1039,
+                "dont": 963,
+                "news": 907,
+                "msnbc": 885,
+                "amp": 857,
+                "president": 772,
+                "republican": 645,
+                "fox": 614
+            },
+            {
+                "channel": 3289,
+                "dont": 1413,
+                "msnbc": 1265,
+                "drop": 1153,
+                "usa": 1121,
+                "nbc": 1120,
+                "bravo": 1097,
+                "favorite": 1088,
+                "nbcsn": 1083,
+                "syfy": 1081
+            },
+            {
+                "ethiopia": 1510,
+                "amp": 1373,
+                "community": 1063,
+                "intl": 955,
+                "hunger": 678,
+                "action": 657,
+                "year": 656,
+                "told": 645,
+                "crisis": 630,
+                "leader": 622
+            }
+        ],
+        "docs per topic": "[ 4982  4940 19394  4302  4460]",
+        "most imp clusters (by #docs)": "[2 0 1 4 3]"
+    },
+    "2021-09-30": {
+        "clusters": [
+            {
+                "news": 1131,
+                "twitter": 1034,
+                "amp": 936,
+                "ethiopia": 608,
+                "link": 506,
+                "world": 499,
+                "updatesclick": 498,
+                "locationless": 498,
+                "retweetscommunity": 498,
+                "crisis": 486
+            },
+            {
+                "people": 1604,
+                "amp": 1151,
+                "trump": 1129,
+                "dont": 964,
+                "biden": 881,
+                "msnbc": 789,
+                "time": 761,
+                "news": 745,
+                "american": 589,
+                "fox": 586
+            },
+            {
+                "sinema": 1266,
+                "dog": 1046,
+                "hunter": 963,
+                "bounty": 960,
+                "faith": 868,
+                "manchin": 730,
+                "fbi": 720,
+                "senator": 714,
+                "rep": 690,
+                "back": 678
+            },
+            {
+                "democrat": 943,
+                "sen": 806,
+                "group": 706,
+                "arizona": 643,
+                "challenge": 633,
+                "primary": 622,
+                "child": 618,
+                "donor": 583,
+                "network": 534,
+                "backed": 530
+            },
+            {
+                "channel": 3347,
+                "australia": 1499,
+                "msnbc": 1243,
+                "usa": 1188,
+                "drop": 1173,
+                "dont": 1166,
+                "nbc": 1129,
+                "bravo": 1106,
+                "favorite": 1104,
+                "nbcsn": 1102
+            }
+        ],
+        "docs per topic": "[ 5333 20143  5538  5585  4179]",
+        "most imp clusters (by #docs)": "[1 3 2 0 4]"
+    },
+    "2021-10-01": {
+        "clusters": [
+            {
+                "channel": 1893,
+                "nbc": 942,
+                "msnbc": 917,
+                "senator": 835,
+                "sinema": 827,
+                "dont": 809,
+                "pay": 773,
+                "drop": 708,
+                "deserve": 688,
+                "manchin": 675
+            },
+            {
+                "people": 1282,
+                "biden": 1063,
+                "democrat": 1022,
+                "dont": 959,
+                "amp": 919,
+                "trump": 895,
+                "msnbc": 874,
+                "time": 825,
+                "president": 813,
+                "bill": 778
+            },
+            {
+                "covid": 1367,
+                "stop": 1056,
+                "medium": 928,
+                "covering": 907,
+                "desantis": 898,
+                "fl": 895,
+                "data": 889,
+                "politics": 887,
+                "lockdown": 884,
+                "travis": 882
+            },
+            {
+                "tigray": 884,
+                "child": 861,
+                "siege": 858,
+                "region": 852,
+                "starved": 849,
+                "intentionally": 843,
+                "remains": 843,
+                "critical": 841,
+                "amp": 720,
+                "action": 703
+            },
+            {
+                "community": 2005,
+                "international": 1580,
+                "tigray": 1263,
+                "act": 1186,
+                "child": 1174,
+                "end": 1130,
+                "power": 1098,
+                "suffering": 1096,
+                "siege": 1055,
+                "imposed": 1054
+            }
+        ],
+        "docs per topic": "[ 4637 20687  5661  4973  4395]",
+        "most imp clusters (by #docs)": "[1 2 3 0 4]"
+    },
+    "2021-10-02": {
+        "clusters": [
+            {
+                "today": 904,
+                "coverage": 766,
+                "march": 765,
+                "cover": 715,
+                "dear": 713,
+                "depth": 711,
+                "jan": 622,
+                "rep": 549,
+                "probe": 429,
+                "schiff": 421
+            },
+            {
+                "news": 735,
+                "court": 647,
+                "supreme": 639,
+                "bill": 632,
+                "time": 549,
+                "infrastructure": 543,
+                "morning": 488,
+                "city": 471,
+                "hundred": 470,
+                "woman": 433
+            },
+            {
+                "covid": 1000,
+                "official": 638,
+                "news": 588,
+                "ethiopia": 546,
+                "legal": 526,
+                "expel": 510,
+                "trump": 436,
+                "fda": 411,
+                "approved": 396,
+                "johnson": 382
+            },
+            {
+                "day": 1780,
+                "night": 1606,
+                "entire": 1604,
+                "concert": 1603,
+                "cover": 1602,
+                "outdoor": 1600,
+                "coveri": 1598,
+                "oath": 821,
+                "giuliani": 787,
+                "rudy": 613
+            },
+            {
+                "people": 1684,
+                "news": 1280,
+                "dont": 970,
+                "biden": 921,
+                "covid": 781,
+                "death": 772,
+                "msnbc": 760,
+                "woman": 755,
+                "amp": 699,
+                "trump": 646
+            }
+        ],
+        "docs per topic": "[ 4658  4337  4142  4776 17238]",
+        "most imp clusters (by #docs)": "[4 3 0 1 2]"
+    },
+    "2021-10-03": {
+        "clusters": [
+            {
+                "news": 1600,
+                "people": 1476,
+                "fox": 1199,
+                "dont": 1125,
+                "money": 1021,
+                "sinema": 1002,
+                "president": 984,
+                "bidens": 984,
+                "trump": 965,
+                "amp": 954
+            },
+            {
+                "veteran": 9313,
+                "disabled": 8001,
+                "tax": 4278,
+                "news": 4105,
+                "fox": 4029,
+                "property": 3220,
+                "benefit": 2420,
+                "pay": 2245,
+                "illinois": 1637,
+                "dont": 1108
+            },
+            {
+                "tax": 2650,
+                "property": 2545,
+                "tammy": 2457,
+                "duckworth": 2442,
+                "paid": 1739,
+                "democrat": 1664,
+                "illinois": 1592,
+                "biden": 1499,
+                "joe": 1425,
+                "stand": 1415
+            },
+            {
+                "cover": 2411,
+                "entire": 2147,
+                "night": 2114,
+                "day": 2088,
+                "concert": 2058,
+                "outdoor": 2055,
+                "coveri": 2053,
+                "woman": 447,
+                "place": 445,
+                "event": 414
+            },
+            {
+                "march": 1129,
+                "today": 971,
+                "coverage": 916,
+                "zero": 832,
+                "vaccine": 783,
+                "senator": 760,
+                "covid": 709,
+                "fda": 691,
+                "approved": 657,
+                "woman": 654
+            }
+        ],
+        "docs per topic": "[21720 13013  6000  5311  6294]",
+        "most imp clusters (by #docs)": "[0 1 4 2 3]"
+    },
+    "2021-10-04": {
+        "clusters": [
+            {
+                "veteran": 4285,
+                "disabled": 3640,
+                "tax": 2839,
+                "property": 1881,
+                "news": 1590,
+                "fox": 1522,
+                "benefit": 1349,
+                "duckworth": 891,
+                "pay": 878,
+                "illinois": 865
+            },
+            {
+                "facebook": 1034,
+                "news": 837,
+                "illegal": 663,
+                "immigrant": 661,
+                "day": 655,
+                "twitter": 651,
+                "sinema": 589,
+                "lot": 540,
+                "group": 521,
+                "sen": 515
+            },
+            {
+                "desantis": 1726,
+                "cancer": 1724,
+                "breast": 1576,
+                "wife": 1252,
+                "casey": 1248,
+                "family": 1234,
+                "florida": 1100,
+                "diagnosed": 1076,
+                "woman": 1061,
+                "praying": 1022
+            },
+            {
+                "vaccine": 1513,
+                "people": 1373,
+                "news": 1180,
+                "dont": 1088,
+                "fox": 981,
+                "mandate": 935,
+                "school": 892,
+                "trump": 891,
+                "amp": 778,
+                "kid": 773
+            },
+            {
+                "biden": 1455,
+                "joe": 538,
+                "people": 523,
+                "afghan": 422,
+                "afghanistan": 420,
+                "country": 393,
+                "amp": 369,
+                "twitter": 351,
+                "bill": 327,
+                "american": 320
+            }
+        ],
+        "docs per topic": "[ 7320  6074  6087 19791  6619]",
+        "most imp clusters (by #docs)": "[3 0 4 2 1]"
+    },
+    "2021-10-05": {
+        "clusters": [
+            {
+                "trump": 1078,
+                "spend": 864,
+                "policy": 863,
+                "tax": 830,
+                "debt": 732,
+                "limit": 723,
+                "reason": 690,
+                "part": 689,
+                "raise": 686,
+                "reckless": 681
+            },
+            {
+                "school": 1310,
+                "parent": 630,
+                "board": 627,
+                "garland": 590,
+                "doj": 516,
+                "evidence": 472,
+                "threat": 450,
+                "fbi": 412,
+                "vaccine": 407,
+                "mandate": 402
+            },
+            {
+                "twitter": 921,
+                "news": 915,
+                "trump": 651,
+                "border": 634,
+                "biden": 456,
+                "link": 401,
+                "updatesclick": 388,
+                "locationless": 388,
+                "retweetscommunity": 388,
+                "chief": 377
+            },
+            {
+                "people": 1530,
+                "biden": 1131,
+                "dont": 1087,
+                "covid": 935,
+                "amp": 908,
+                "vaccine": 906,
+                "news": 887,
+                "fda": 841,
+                "approved": 789,
+                "msnbc": 758
+            },
+            {
+                "amp": 567,
+                "facebook": 464,
+                "democrat": 416,
+                "time": 416,
+                "sen": 405,
+                "health": 392,
+                "state": 390,
+                "msnbc": 388,
+                "debt": 360,
+                "talking": 358
+            }
+        ],
+        "docs per topic": "[ 3904  4874  4896 18857  5060]",
+        "most imp clusters (by #docs)": "[3 4 2 1 0]"
+    },
+    "2021-10-06": {
+        "clusters": [
+            {
+                "news": 372,
+                "twitter": 249,
+                "time": 183,
+                "trump": 176,
+                "msnbc": 175,
+                "parent": 166,
+                "border": 166,
+                "talking": 163,
+                "host": 161,
+                "give": 160
+            },
+            {
+                "amp": 148,
+                "paul": 116,
+                "week": 114,
+                "month": 97,
+                "hand": 96,
+                "judge": 94,
+                "prison": 94,
+                "school": 94,
+                "sentence": 91,
+                "capitol": 90
+            },
+            {
+                "union": 201,
+                "fbi": 152,
+                "biden": 138,
+                "senate": 129,
+                "police": 115,
+                "city": 111,
+                "mullins": 111,
+                "ed": 107,
+                "leader": 106,
+                "hour": 104
+            },
+            {
+                "head": 159,
+                "trump": 126,
+                "iowa": 120,
+                "watch": 113,
+                "department": 112,
+                "facebook": 107,
+                "stop": 107,
+                "global": 104,
+                "federal": 102,
+                "antigone": 98
+            },
+            {
+                "democrat": 200,
+                "parent": 190,
+                "people": 177,
+                "trump": 172,
+                "debt": 166,
+                "vote": 164,
+                "republican": 135,
+                "fbi": 126,
+                "crackdown": 116,
+                "ceiling": 114
+            }
+        ],
+        "docs per topic": "[1087 1260  871  967 2323]",
+        "most imp clusters (by #docs)": "[4 1 0 3 2]"
+    }
+}
